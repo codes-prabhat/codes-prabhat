@@ -111,3 +111,8 @@
 <p align="right" style="margin-top: -25px;">
   <img src="https://komarev.com/ghpvc/?username=prabhat-yadav-official" alt="Prabhat Yadav"/>
 </p>
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
