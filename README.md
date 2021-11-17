@@ -1,7 +1,7 @@
 <h2> Hi, I'm <a href="https://github.com/prabhat-yadav-official" target="_blank">Prabhat Yadav</a> <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="40px"> </h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="250"/>
 
- <h3> A Developer, Explorer and Learner !</h3>
+ <h3> A Student, Explorer,Developer and Learner !</h3>
 
 - 🧑‍💻I am a Computer Science & Engineering Student.
 - ❤️‍🔥I am passionate about new development projects,new technologies and 🧩problem solving.
