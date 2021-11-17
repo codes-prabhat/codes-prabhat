@@ -36,12 +36,7 @@
 <img align="left"  width="45" height="45" alt="Oracle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/oracle.svg">
 <!--<img align="left"  width="45" height="45" alt="SQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">-->
 <img align="left"  width="45" height="45" alt="MySQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-
-<br />
-</p>
-
-<p align="center">
-
+ 
 <!--Code Management-->
 <img align="left"  width="45" height="45" alt="Git"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img align="left"  width="45" height="45" alt="GitHub"   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
