@@ -96,7 +96,7 @@
 <!--
 <img align="left" alt="Prabhat Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhat-yadav-official&show_icons=true&hide_border=true&include_all_commits" />
 -->
-
+ <a>***Random Thoughts:)***</a>
 [website]: google.com
 [twitter]: https://twitter.com/2000prabhat
 [linkedin]: https://www.linkedin.com/in/prabhat-yadav-477a821a0/
@@ -107,8 +107,6 @@
 [![Website](https://img.shields.io/website?label=prabhat-yadav-official.github.io&style=for-the-badge&url=https://prabhat-yadav-official.github.io)](https://prabhat-yadav-official.github.io)
 -->
 </br>
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <p align="right" style="margin-top: -25px;">
   <img src="https://komarev.com/ghpvc/?username=prabhat-yadav-official" alt="Prabhat Yadav"/>
 </p>
