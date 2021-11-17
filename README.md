@@ -113,6 +113,3 @@
 </p>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<!-- Markdown -->
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
