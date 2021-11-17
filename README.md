@@ -39,23 +39,9 @@
 
 <!--Databases-->
 <img align="left"  width="45" height="45" alt="Oracle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/oracle.svg">
-<img align="left"  width="45" height="45" alt="PostreSQL"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 <!--<img align="left"  width="45" height="45" alt="SQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">-->
 <img align="left"  width="45" height="45" alt="MySQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img align="left"  width="45" height="45" alt="MongoDB"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 
-<!--DevOps-->
-<img align="left"  width="45" height="45" alt="Docker"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-<img align="left"  width="45" height="45" alt="Jenkins"   src="https://www.jenkins.io/images/logos/brno/brno.png">
-<img align="left"  width="45" height="45" alt="Kubernetes"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/kubernetes.svg">
-<img align="left"  width="45" height="45" alt="AWS"   src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-
-<!--Repo/Dependecies -->
-<img align="left"  width="45" height="45" alt="Maven"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg">
-<img align="left"  width="45" height="45" alt="Gradle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/gradle.svg">
-
-<!--Unit Testing-->
-<img align="left"  width="45" height="45" alt="JUnit"   src="https://avatars.githubusercontent.com/u/874086?s=200&v=4">
 <br />
 </p>
 
