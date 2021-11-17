@@ -1,20 +1,19 @@
-# Prabhatyadav
-<h2> Hi, I'm <a href="https://akshaychaudhari.github.io" target="_blank"> Akshay Chaudhari</a> <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="40px"> </h2>
+<h2> Hi, I'm <a href="https://github.com/prabhat-yadav-official" target="_blank">Prabhat Yadav</a> <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="40px"> </h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="250"/>
 
  <h3> A Developer, Explorer and Learner !</h3>
 
-- 🧑‍💻I work as a Software Engineer.
-- ❤️‍🔥I am passionate about ☁️Cloud-Native web app development and 🧩problem solving.
+- 🧑‍💻I am a Computer Science & Engineering Student.
+- ❤️‍🔥I am passionate about new development projects,new technologies and 🧩problem solving.
 - 🌱 I’m currently learning clean✨, elegant and robust coding. 😘
 - ⚡ I love to experiment new things. I consider myself a forever student.
 - 📩 Feel free to reach me at er.akshayrc@gmail.com.
 
 <!--
-[<img align="left" alt="akshaychaudhari" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="akshaychaudhari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="akshaychaudhari | Hackerrank" width="22px" src="https://raw.githubusercontent.com/akshaychaudhari/akshaychaudhari.github.io/master/img/hackerrank_logo.png" />][hackerrank]
-[<img align="left" alt="akshaychaudhari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="PrabhaYadav" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Prabhat Yadav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PrabhatYadav | Hackerrank" width="22px" src="https://raw.githubusercontent.com/akshaychaudhari/akshaychaudhari.github.io/master/img/hackerrank_logo.png" />][hackerrank]
+[<img align="left" alt="PrabhatYadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 -->
 
 <br/>
@@ -85,9 +84,9 @@
 <h2>🕹️ My Github Stats 🏆</h2>
 
 <p align="center"> 
-  <img  width="40%" alt="Akshay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&theme=radical&show_icons=true" >
-  <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaychaudhari&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" >
-  <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact&theme=radical&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" >
+  <img  width="40%" alt="Prabhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhat-yadav-official&theme=radical&show_icons=true" >
+  <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhat-yadav-official&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" >
+  <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat-yadav-official&layout=compact&theme=radical&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" >
 </p>
 
 </p>
@@ -97,7 +96,7 @@
 <h2>👨🏼‍💻 My Contributions 🍽️</h2>
 
 <p align="center"> 
-  <img width="90%" alt="Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=akshaychaudhari&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true%22"><br>
+  <img width="90%" alt="Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=prabhat-yadav-official&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true%22"><br>
  </p>
 
 <br />
@@ -105,11 +104,11 @@
 <h2>🕵🏼 Find me over 🔭</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akshayrc/">
-    <img align="left" alt="Akshay's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=Akshay&style=for-the-badge&color=blue" />
+  <a href="https://www.linkedin.com/in/prabhat-yadav-477a821a0/">
+    <img align="left" alt="Prabhat's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=Prabhat&style=for-the-badge&color=blue" />
   </a> <emsp> 
-  <a href="https://www.hackerrank.com/AkshayChaudhari">
-    <img align="left" alt="Akshay's Hackerrank" width="150px" src="https://img.shields.io/static/v1?label=Hackerrank&message=Akshay&style=for-the-badge&color=green" />
+  <a href="https://www.hackerrank.com/Einstein_Y">
+    <img align="left" alt="Prabhat's Hackerrank" width="150px" src="https://img.shields.io/static/v1?label=Hackerrank&message=Akshay&style=for-the-badge&color=green" />
   </a>
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAkshayrc&screen_name=Akshayrc">
     <img align="left" alt="Akshay's Twitter" width="190px" src="https://img.shields.io/twitter/follow/Akshayrc?color=1DA1F2&logo=twitter&style=for-the-badge" />
@@ -127,13 +126,13 @@
 <img align="left" alt="Akshay Chaudhari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&hide_border=true&include_all_commits" />
 -->
 
-[website]: https://akshaychaudhari.github.io
-[twitter]: https://twitter.com/Akshayrc
-[linkedin]: https://www.linkedin.com/in/akshayrc/
-[hackerrank]: https://www.hackerrank.com/AkshayChaudhari
+[website]: google.com
+[twitter]: https://twitter.com/2000prabhat
+[linkedin]: https://www.linkedin.com/in/prabhat-yadav-477a821a0/
+[hackerrank]: https://www.hackerrank.com/Einstein_Y
 
 <!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/Akshayrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAkshayrc&screen_name=Akshayrc)
+[![Twitter Follow](https://img.shields.io/twitter/follow/2000prabhat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F2000prabhatc&screen_name=2000prabhat)
 [![Website](https://img.shields.io/website?label=akshaychaudhari.github.io&style=for-the-badge&url=https://akshaychaudhari.github.io)](https://akshaychaudhari.github.io)
 -->
 </br>
