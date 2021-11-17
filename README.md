@@ -27,16 +27,11 @@
 <img align="left"  width="45" height="45" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png">
 <img align="left"  width="45" height="45" alt="C++" src="https://5.imimg.com/data5/QB/LQ/MY-53266557/c-programming-language-500x500.png">
 <img align="left"  width="45" height="45" alt="Python"   src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-<img align="left"  width="45" height="45" alt="Oracle DBMS"   src="https://www.hvr-software.com/wp-content/uploads/2017/03/OracleDB.png">
-
 <!-- UI-->
 <img align="left"  width="45" height="45" alt="HTML5"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <!--<img align="left"  width="45" height="45" alt="CSS3"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">-->
 </a>
-</p>
-
-<p align="center">
-
+<p>
 <!--Databases-->
 <img align="left"  width="45" height="45" alt="Oracle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/oracle.svg">
 <!--<img align="left"  width="45" height="45" alt="SQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">-->
