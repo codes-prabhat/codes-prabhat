@@ -71,7 +71,9 @@
  </p>
 
 <br />
-
+ <p align="center">***Random Thoughts:)***</p>
+<p align="center"><!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
 <h2>🕵🏼 Find me over 🔭</h2>
 
 <p align="left">
@@ -92,11 +94,9 @@
   </a> -->
 </p>
 
-
 <!--
 <img align="left" alt="Prabhat Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhat-yadav-official&show_icons=true&hide_border=true&include_all_commits" />
 -->
- <a>***Random Thoughts:)***</a>
 [website]: google.com
 [twitter]: https://twitter.com/2000prabhat
 [linkedin]: https://www.linkedin.com/in/prabhat-yadav-477a821a0/
