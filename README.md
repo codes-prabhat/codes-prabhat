@@ -7,7 +7,7 @@
 - ❤️‍🔥I am passionate about new development projects,new technologies and 🧩problem solving.
 - 🌱 I’m currently learning clean✨, elegant and robust coding. 😘
 - ⚡ I love to experiment new things. I consider myself a forever student.
-- 📩 Feel free to reach me at er.akshayrc@gmail.com.
+- 📩 Feel free to reach me at prabhatyadav.official@gmail.com.
 
 <!--
 [<img align="left" alt="PrabhaYadav" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -108,22 +108,22 @@
     <img align="left" alt="Prabhat's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=Prabhat&style=for-the-badge&color=blue" />
   </a> <emsp> 
   <a href="https://www.hackerrank.com/Einstein_Y">
-    <img align="left" alt="Prabhat's Hackerrank" width="150px" src="https://img.shields.io/static/v1?label=Hackerrank&message=Akshay&style=for-the-badge&color=green" />
+    <img align="left" alt="Prabhat's Hackerrank" width="150px" src="https://img.shields.io/static/v1?label=Hackerrank&message=Prabhat&style=for-the-badge&color=green" />
   </a>
-  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAkshayrc&screen_name=Akshayrc">
-    <img align="left" alt="Akshay's Twitter" width="190px" src="https://img.shields.io/twitter/follow/Akshayrc?color=1DA1F2&logo=twitter&style=for-the-badge" />
+  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2000prabhat&screen_name=2000prabhat">
+    <img align="left" alt="Prabhat's Twitter" width="190px" src="https://img.shields.io/twitter/follow/2000prabhat?color=1DA1F2&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://akshaychaudhari.github.io">
-    <img align="left" alt="Akshay's Portfolio" width="180px" src="https://img.shields.io/website?label=Portfolio+Website&style=for-the-badge&color=blueviolet&url=https://akshaychaudhari.github.io" />
+  <a href="https://github.com/prabhat-yadav-official">
+    <img align="left" alt="Prabhat's Portfolio" width="180px" src="https://img.shields.io/website?label=Portfolio+Website&style=for-the-badge&color=blueviolet&url=https://github.com/prabhat-yadav-official" />
   </a>
-  <!--<a href="https://akshaychaudhari.github.io">
+  <!--<a href="https://github.com/prabhat-yadav-official">
     <img align="left"  width="45" height="45" alt="InnerEnergy" src="https://media.giphy.com/media/3rgXBuCKRMNQZ0PVEA/giphy.gif">
   </a> -->
 </p>
 
 
 <!--
-<img align="left" alt="Akshay Chaudhari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&hide_border=true&include_all_commits" />
+<img align="left" alt="Prabhat Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhat-yadav-official&show_icons=true&hide_border=true&include_all_commits" />
 -->
 
 [website]: google.com
@@ -133,10 +133,10 @@
 
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/2000prabhat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F2000prabhatc&screen_name=2000prabhat)
-[![Website](https://img.shields.io/website?label=akshaychaudhari.github.io&style=for-the-badge&url=https://akshaychaudhari.github.io)](https://akshaychaudhari.github.io)
+[![Website](https://img.shields.io/website?label=prabhat-yadav-official.github.io&style=for-the-badge&url=https://prabhat-yadav-official.github.io)](https://prabhat-yadav-official.github.io)
 -->
 </br>
 
 <p align="right" style="margin-top: -25px;">
-  <img src="https://komarev.com/ghpvc/?username=akshaychaudhari" alt="Prabhat Yadav"/>
+  <img src="https://komarev.com/ghpvc/?username=prabhat-yadav-official" alt="Prabhat Yadav"/>
 </p>
