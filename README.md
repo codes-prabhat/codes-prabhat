@@ -22,19 +22,14 @@
 
 <p align="center">
 
-<!-- Backend-->
+<!-- languages-->
 <a>
-<img align="left"  width="45" height="45" alt="Java" src="https://dev.java/assets/images/java-logo-vert-blk.png">
-<img align="left"  width="45" height="45" alt="Spring Boot" src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg">
-<img align="left"  width="45" height="45" alt="JavaScript"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left"  width="45" height="45" alt="Hibernate"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/hibernate.svg">
+<img align="left"  width="45" height="45" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png">
+<img align="left"  width="45" height="45" alt="C++" src="https://5.imimg.com/data5/QB/LQ/MY-53266557/c-programming-language-500x500.png">
+<img align="left"  width="45" height="45" alt="Python"   src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+<img align="left"  width="45" height="45" alt="Oracle DBMS"   src="https://www.hvr-software.com/wp-content/uploads/2017/03/OracleDB.png">
 
 <!-- UI-->
-<img align="left"  width="45" height="45" alt="Groovy"   src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg">
-<img align="left"  width="45" height="45" alt="Grails"   src="https://grails.org/images/grails_logo.svg">
-<img align="left"  width="45" height="45" alt="Angular"   src="https://angular.io/assets/images/logos/angular/angular.svg">
-<img align="left"  width="45" height="45" alt="TypeScript"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img align="left"  width="45" height="45" alt="Node.js"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left"  width="45" height="45" alt="HTML5"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <!--<img align="left"  width="45" height="45" alt="CSS3"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">-->
 </a>
