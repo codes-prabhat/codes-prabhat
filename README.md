@@ -107,9 +107,8 @@
 [![Website](https://img.shields.io/website?label=prabhat-yadav-official.github.io&style=for-the-badge&url=https://prabhat-yadav-official.github.io)](https://prabhat-yadav-official.github.io)
 -->
 </br>
-
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <p align="right" style="margin-top: -25px;">
   <img src="https://komarev.com/ghpvc/?username=prabhat-yadav-official" alt="Prabhat Yadav"/>
 </p>
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
