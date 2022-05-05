@@ -55,9 +55,9 @@
 <h2>🕹️ My Github Stats 🏆</h2>
 
 <p align="center"> 
-  <img  width="40%" alt="Prabhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhat-yadav-official&theme=radical&show_icons=true" >
-  <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhat-yadav-official&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" >
-  <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat-yadav-official&layout=compact&theme=radical&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" >
+  <img  width="40%" alt="Prabhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codes-prabhat&theme=radical&show_icons=true" >
+  <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=codes-prabhat&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" >
+  <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codes-prabhat&layout=compact&theme=radical&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" >
 </p>
 
 </p>
@@ -67,7 +67,7 @@
 <h2>👨🏼‍💻 My Contributions 🍽️</h2>
 
 <p align="center"> 
-  <img width="90%" alt="Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=prabhat-yadav-official&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true%22"><br>
+  <img width="90%" alt="Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=codes-prabhat&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true%22"><br>
  </p>
 
 <br />
@@ -86,16 +86,16 @@
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2000prabhat&screen_name=2000prabhat">
     <img align="left" alt="Prabhat's Twitter" width="190px" src="https://img.shields.io/twitter/follow/2000prabhat?color=1DA1F2&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://github.com/prabhat-yadav-official">
-    <img align="left" alt="Prabhat's Portfolio" width="180px" src="https://img.shields.io/website?label=Portfolio+Website&style=for-the-badge&color=blueviolet&url=https://github.com/prabhat-yadav-official" />
+  <a href="https://github.com/codes-prabhat">
+    <img align="left" alt="Prabhat's Portfolio" width="180px" src="https://img.shields.io/website?label=Portfolio+Website&style=for-the-badge&color=blueviolet&url=https://github.com/codes-prabhat" />
   </a>
-  <!--<a href="https://github.com/prabhat-yadav-official">
+  <!--<a href="https://github.com/codes-prabhat">
     <img align="left"  width="45" height="45" alt="InnerEnergy" src="https://media.giphy.com/media/3rgXBuCKRMNQZ0PVEA/giphy.gif">
   </a> -->
 </p>
 
 <!--
-<img align="left" alt="Prabhat Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhat-yadav-official&show_icons=true&hide_border=true&include_all_commits" />
+<img align="left" alt="Prabhat Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codes-prabhat&show_icons=true&hide_border=true&include_all_commits" />
 -->
 [website]: google.com
 [twitter]: https://twitter.com/2000prabhat
