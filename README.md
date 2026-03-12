@@ -33,19 +33,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codes-prabhat&theme=tokyonight&show_icons=true&hide_border=true&border_radius=12" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codes-prabhat&theme=tokyonight&hide_border=true&border_radius=12&ring=6C63FF&fire=6C63FF&currStreakNum=fff" />
-</p>
-
-<p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codes-prabhat&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&hide=css,scss,Handlebars,Makefile,Less" />
-</p>
-
----
-
 ### 🎯 Quick Timeline
 
 | Year | What happened |
@@ -82,10 +69,6 @@
 *Random dev wisdom for your day:*
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=6C63FF" alt="Jokes Card" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=codes-prabhat&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
 
 <br/><br/>
 
