@@ -11,13 +11,11 @@
     :root{--bg:#0a0a1a;--accent:#6C63FF;--accent2:#00d4aa;--text:#e0e0e0;--card:#12122a}
     html{scroll-behavior:smooth}
     body{font-family:'Space Grotesk',sans-serif;background:var(--bg);color:var(--text);overflow-x:hidden}
-
     .hero{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;position:relative;perspective:1000px}
     .hero::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 20% 50%,rgba(108,99,255,.15) 0%,transparent 50%),radial-gradient(ellipse at 80% 50%,rgba(0,212,170,.1) 0%,transparent 50%);pointer-events:none}
     .stars{position:absolute;inset:0;overflow:hidden;pointer-events:none}
     .star{position:absolute;width:2px;height:2px;background:#fff;border-radius:50%;animation:twinkle var(--dur) ease-in-out infinite alternate}
     @keyframes twinkle{from{opacity:.2}to{opacity:1}}
-
     .name-3d{font-family:'Press Start 2P',cursive;font-size:clamp(2rem,6vw,4.5rem);color:var(--accent);transform:rotateX(10deg) rotateY(-5deg);text-shadow:0 1px 0 #5a54d4,0 2px 0 #4e48c2,0 3px 0 #423cb0,0 4px 0 #36309e,0 5px 15px rgba(108,99,255,.4);animation:float 4s ease-in-out infinite;position:relative;z-index:1}
     @keyframes float{0%,100%{transform:rotateX(10deg) rotateY(-5deg) translateY(0)}50%{transform:rotateX(10deg) rotateY(-5deg) translateY(-15px)}}
     .meaning{margin-top:1.5rem;font-size:1.2rem;color:var(--accent2);opacity:.9;z-index:1;position:relative}
@@ -26,17 +24,14 @@
     .scroll-hint{position:absolute;bottom:2rem;font-family:'Press Start 2P',cursive;font-size:.6rem;color:var(--accent);animation:bounce 2s infinite;z-index:1}
     .scroll-hint::after{content:'▼';display:block;text-align:center;margin-top:.5rem;font-size:.8rem}
     @keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(8px)}}
-
     .name-story{max-width:700px;margin:0 auto;padding:6rem 2rem;text-align:center}
     .section-title{font-family:'Press Start 2P',cursive;font-size:clamp(.8rem,2vw,1.1rem);color:var(--accent);margin-bottom:2rem}
     .name-story p{font-size:1.1rem;line-height:1.8;opacity:.85}
     .highlight{color:var(--accent2);font-weight:600}
-
     .journey{padding:4rem 1rem 6rem;position:relative}
     .journey .section-title{text-align:center;margin-bottom:3rem}
     .path{position:relative;max-width:800px;margin:0 auto}
     .path::before{content:'';position:absolute;left:50%;top:0;bottom:0;width:3px;background:linear-gradient(to bottom,var(--accent),var(--accent2));transform:translateX(-50%);border-radius:3px}
-
     .cp{position:relative;margin-bottom:3rem;display:flex;align-items:center;perspective:800px}
     .cp:nth-child(odd){flex-direction:row}
     .cp:nth-child(even){flex-direction:row-reverse}
@@ -51,7 +46,6 @@
     .cp-title{font-weight:700;font-size:1rem;margin-bottom:.4rem}
     .cp-desc{font-size:.85rem;opacity:.7;line-height:1.5}
     .xp{display:inline-block;margin-top:.8rem;padding:.2rem .6rem;font-family:'Press Start 2P',cursive;font-size:.5rem;background:rgba(108,99,255,.2);color:var(--accent);border-radius:4px;border:1px solid rgba(108,99,255,.3)}
-
     .now{text-align:center;padding:4rem 2rem 6rem;perspective:600px}
     .now-card{max-width:500px;margin:2rem auto 0;background:linear-gradient(135deg,var(--card),#1a1a3a);border:1px solid rgba(0,212,170,.3);border-radius:16px;padding:2.5rem;transform:rotateX(5deg);transition:transform .4s ease;box-shadow:0 20px 60px rgba(0,0,0,.3)}
     .now-card:hover{transform:rotateX(0deg) scale(1.02)}
@@ -59,17 +53,13 @@
     .now-card .company{font-size:1.8rem;font-weight:700}
     .now-card .location{opacity:.5;margin-top:.3rem}
     .now-card .vibe{margin-top:1.5rem;font-style:italic;opacity:.6;font-size:.95rem}
-
     .connect{text-align:center;padding:3rem 2rem 5rem}
     .connect-links{display:flex;justify-content:center;gap:1rem;flex-wrap:wrap;margin-top:2rem}
     .connect-links a{display:inline-flex;align-items:center;gap:.5rem;padding:.7rem 1.4rem;background:var(--card);color:var(--text);text-decoration:none;border-radius:8px;border:1px solid rgba(108,99,255,.2);font-size:.9rem;transition:all .3s ease;transform:perspective(400px) rotateY(0deg)}
     .connect-links a:hover{border-color:var(--accent);transform:perspective(400px) rotateY(5deg) translateY(-3px);box-shadow:0 8px 25px rgba(108,99,255,.2)}
-
     footer{text-align:center;padding:2rem;font-family:'Press Start 2P',cursive;font-size:.5rem;opacity:.3}
-
     .fade-in{opacity:0;transform:translateY(30px);transition:opacity .6s ease,transform .6s ease}
     .fade-in.visible{opacity:1;transform:translateY(0)}
-
     @media(max-width:700px){
       .path::before{left:20px}
       .cp{flex-direction:row!important;padding-left:50px}
@@ -97,6 +87,7 @@
   <section class="journey">
     <div class="section-title">🎮 THE JOURNEY</div>
     <div class="path">
+      <div class="cp fade-in"><div class="cp-dot"></div><div class="cp-card"><div class="cp-year">2012 — 2017</div><div class="cp-emoji">📚</div><div class="cp-title">St. Mary's Convent School — 10th Grade</div><div class="cp-desc">Scored 88%. Where it all began. Built the foundation — discipline, curiosity, and the first spark of wanting to understand how things work.</div><span class="xp">+100 XP</span></div></div>
       <div class="cp fade-in"><div class="cp-dot"></div><div class="cp-card"><div class="cp-year">2018 — 2019</div><div class="cp-emoji">🏫</div><div class="cp-title">KDB Public School — 12th Grade</div><div class="cp-desc">Scored 93%. The grind started here. First taste of problem solving and the realization that logic > memorization.</div><span class="xp">+200 XP</span></div></div>
       <div class="cp fade-in"><div class="cp-dot"></div><div class="cp-card"><div class="cp-year">2019 — 2023</div><div class="cp-emoji">🎓</div><div class="cp-title">ABES Engineering College — B.Tech CS (Hons.)</div><div class="cp-desc">CGPA 8.9. Discovered the world of code, algorithms, and late-night debugging sessions. The character arc begins.</div><span class="xp">+800 XP</span></div></div>
       <div class="cp fade-in"><div class="cp-dot"></div><div class="cp-card"><div class="cp-year">JAN 2023 — JUN 2023</div><div class="cp-emoji">🚀</div><div class="cp-title">Amazon Intern — Bengaluru</div><div class="cp-desc">First real-world boss fight. Shipped code that actually mattered. Learned that production systems don't care about your GPA.</div><span class="xp">+1500 XP</span></div></div>
