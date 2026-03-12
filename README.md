@@ -1,112 +1,94 @@
-<h2> Hi, I'm <a href="https://github.com/prabhat-yadav-official" target="_blank">Prabhat Yadav</a> <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="40px"> </h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="250"/>
+<div align="center">
 
- <h3> A Student, Explorer, Developer and Learner !</h3>
-
-- 🧑‍💻I am a Computer Science & Engineering Student.
-- ❤️‍🔥I am passionate about new development projects,new technologies and 🧩problem solving.
-- 🌱 I’m currently learning clean✨, elegant and robust coding. 😘
-- ⚡ I love to experiment new things. I consider myself a forever student.
-- 📩 Feel free to reach me at prabhatyadav.official@gmail.com.
-
-<!--
-[<img align="left" alt="PrabhaYadav" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Prabhat Yadav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="PrabhatYadav | Hackerrank" width="22px" src="https://raw.githubusercontent.com/akshaychaudhari/akshaychaudhari.github.io/master/img/hackerrank_logo.png" />][hackerrank]
-[<img align="left" alt="PrabhatYadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Prabhat%20👋&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <br/>
 
-<h2>🧰 My Toolbox 🛠️</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Application+Engineer+%40+Amazon+%F0%9F%93%A6;Building+things+that+scale+%F0%9F%9A%80;Turning+coffee+into+code+since+2023+%E2%98%95;Good+vibes+only+%E2%9C%A8" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+### 🧑‍💻 About Me
+
+- 🏢 **Application Engineer** at **Amazon**, Hyderabad
+- 🎓 B.Tech (Hons.) in CS from **ABES Engineering College** — 8.9 CGPA
+- 🌏 Previously worked at **Accenture** as a Software Engineer
+- 🧠 I enjoy building reliable systems and solving gnarly production issues
+- 🧘 Outside work: *sitting peacefully and appreciating things as they happen*
+- 📬 Reach me at **prabhatyadav.official@gmail.com**
+
+<br clear="right"/>
+
+---
+
+### ⚡ Tech I Work With
 
 <p align="center">
-
-<!-- languages-->
-<a>
-<img align="left"  width="45" height="45" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png">
-<img align="left"  width="45" height="45" alt="C++" src="https://5.imimg.com/data5/QB/LQ/MY-53266557/c-programming-language-500x500.png">
-<img align="left"  width="45" height="45" alt="Python"   src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-<!-- UI-->
-<img align="left"  width="45" height="45" alt="HTML5"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<!--<img align="left"  width="45" height="45" alt="CSS3"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">-->
-</a>
-<p>
-<!--Databases-->
-<img align="left"  width="45" height="45" alt="Oracle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/oracle.svg">
-<!--<img align="left"  width="45" height="45" alt="SQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">-->
-<img align="left"  width="45" height="45" alt="MySQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
- 
-<!--Code Management-->
-<img align="left"  width="45" height="45" alt="Git"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-<img align="left"  width="45" height="45" alt="GitHub"   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-<img align="left" width="45" height="45" alt="Visual Studio Code"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<!--<img align="left"  width="45" height="45" alt="Terminal"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img align="left"  width="45" height="45" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">-->
-<br />
-<!--Source-->
-<!---->
+  <img src="https://skillicons.dev/icons?i=python,typescript,java,aws,linux,docker,git,github,vscode,mysql&perline=10" />
 </p>
 
-<br />
-<br />
+---
 
-<p>
-<h2>🕹️ My Github Stats 🏆</h2>
+### 📈 GitHub Stats
 
-<p align="center"> 
-  <img  width="40%" alt="Prabhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codes-prabhat&theme=radical&show_icons=true" >
-  <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=codes-prabhat&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" >
-  <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codes-prabhat&layout=compact&theme=radical&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" >
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codes-prabhat&theme=tokyonight&show_icons=true&hide_border=true&border_radius=12" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codes-prabhat&theme=tokyonight&hide_border=true&border_radius=12&ring=6C63FF&fire=6C63FF&currStreakNum=fff" />
 </p>
 
+<p align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codes-prabhat&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&hide=css,scss,Handlebars,Makefile,Less" />
 </p>
 
-<br />
+---
 
-<h2>👨🏼‍💻 My Contributions 🍽️</h2>
+### 🎯 Quick Timeline
 
-<p align="center"> 
-  <img width="90%" alt="Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=codes-prabhat&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true%22"><br>
- </p>
+| Year | What happened |
+|------|--------------|
+| 2023 | 🎓 Graduated B.Tech CS (Hons.) |
+| 2023 | 🚀 Interned at Amazon, Bengaluru |
+| 2023 | 💼 Software Engineer at Accenture |
+| 2024 | 📦 Joined Amazon full-time, Bengaluru |
+| 2025 | ⬆️ Promoted — Application Engineer III, Hyderabad |
 
-<br />
- <p align="center">***Random Thoughts:)***</p>
-<p align="center"><!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
-<h2>🕵🏼 Find me over 🔭</h2>
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/prabhat-yadav-477a821a0/">
-    <img align="left" alt="Prabhat's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=Prabhat&style=for-the-badge&color=blue" />
-  </a> <emsp> 
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabhaty/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/2000prabhat">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
   <a href="https://www.hackerrank.com/Einstein_Y">
-    <img align="left" alt="Prabhat's Hackerrank" width="150px" src="https://img.shields.io/static/v1?label=Hackerrank&message=Prabhat&style=for-the-badge&color=green" />
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
-  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2000prabhat&screen_name=2000prabhat">
-    <img align="left" alt="Prabhat's Twitter" width="190px" src="https://img.shields.io/twitter/follow/2000prabhat?color=1DA1F2&logo=twitter&style=for-the-badge" />
+  <a href="mailto:prabhatyadav.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/codes-prabhat">
-    <img align="left" alt="Prabhat's Portfolio" width="180px" src="https://img.shields.io/website?label=Portfolio+Website&style=for-the-badge&color=blueviolet&url=https://github.com/codes-prabhat" />
-  </a>
-  <!--<a href="https://github.com/codes-prabhat">
-    <img align="left"  width="45" height="45" alt="InnerEnergy" src="https://media.giphy.com/media/3rgXBuCKRMNQZ0PVEA/giphy.gif">
-  </a> -->
 </p>
 
-<!--
-<img align="left" alt="Prabhat Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codes-prabhat&show_icons=true&hide_border=true&include_all_commits" />
--->
-[website]: google.com
-[twitter]: https://twitter.com/2000prabhat
-[linkedin]: https://www.linkedin.com/in/prabhat-yadav-477a821a0/
-[hackerrank]: https://www.hackerrank.com/Einstein_Y
+---
 
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/2000prabhat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F2000prabhatc&screen_name=2000prabhat)
-[![Website](https://img.shields.io/website?label=prabhat-yadav-official.github.io&style=for-the-badge&url=https://prabhat-yadav-official.github.io)](https://prabhat-yadav-official.github.io)
--->
-</br>
-<p align="right" style="margin-top: -25px;">
-  <img src="https://komarev.com/ghpvc/?username=prabhat-yadav-official" alt="Prabhat Yadav"/>
-</p>
+<div align="center">
+
+*Random dev wisdom for your day:*
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=6C63FF" alt="Jokes Card" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=codes-prabhat&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
