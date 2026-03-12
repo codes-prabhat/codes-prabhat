@@ -20,6 +20,7 @@
 - 🧠 I enjoy building reliable systems and solving gnarly production issues
 - 🧘 Outside work: *sitting peacefully and appreciating things as they happen*
 - 📬 Reach me at **prabhatyadav.official@gmail.com**
+- 🌐 Check out my **[Portfolio](https://codes-prabhat.github.io/codes-prabhat/)**
 
 <br clear="right"/>
 
@@ -48,6 +49,9 @@
 ### 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://codes-prabhat.github.io/codes-prabhat/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/prabhaty/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
